@@ -166,6 +166,8 @@ export default function Lab03() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    width: "100%",
+    paddingTop: 28,
   },
   box: {
     position: "absolute",
